@@ -1,0 +1,12 @@
+Request Status
+GET
+POST
+PUT
+DELETE
+PATCH
+
+Response Status
+2XX = 200: OK 201: Created 202: Accepted
+3XX = 301: Moved Permanently 302: Found
+4XX = 400: Bad Request 401: Unauthorised 403: Forbidden 404: Not Found 405: Method Not Allowed
+5XX = 500: Install Server Error 502: Bad Gateway
